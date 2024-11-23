@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "848978642801",
+    "firebase_url": "https://phuc-lac-tam-default-rtdb.firebaseio.com",
+    "project_id": "phuc-lac-tam",
+    "storage_bucket": "phuc-lac-tam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848978642801:android:944f5e5b442edbff00d8d0",
+        "android_client_info": {
+          "package_name": "phuclactam.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoYJKID6HJNHQsuQ7hylYMSFDqx9FzCAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
